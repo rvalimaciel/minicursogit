@@ -1,2 +1,2 @@
 git add <nome>
-git commit -m <nome>
+git commit -m "mensagem" 
