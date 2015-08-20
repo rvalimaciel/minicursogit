@@ -1,3 +1,5 @@
 git add <nome>
 git commit -m "mensagem"
 linha nova
+linha nova
+linha nova
